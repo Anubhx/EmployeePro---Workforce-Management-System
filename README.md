@@ -3,7 +3,7 @@
 EmployeePro is a robust and user-friendly Employee Management System designed to streamline and enhance organizational workforce management. With features tailored for efficient employee information handling, it simplifies tasks such as adding new employees, updating details, viewing workforce data, and removing records. EmployeePro empowers businesses to manage their human resources effectively, fostering a seamless and organized approach to employee administration.
 
 ## Key Features
-![image](https://github.com/Anubhx/-EmployeeManagementSystem/assets/80146839/9c0fe86f-b8e4-4a17-8eec-8d0578a7bcfe)
+  ![image](https://github.com/Anubhx/-EmployeeManagementSystem/assets/80146839/9c0fe86f-b8e4-4a17-8eec-8d0578a7bcfe)
 
 
 - **User-Friendly Interface:** EmployeePro offers an intuitive and easy-to-use interface, ensuring that users can navigate the system with minimal training.
@@ -25,6 +25,10 @@ EmployeePro is a robust and user-friendly Employee Management System designed to
 - **Employee Removal:** Provides the functionality to remove employee records from the system when necessary.
 
 - **Database Connectivity:** Utilizes a MySQL database for efficient data storage and retrieval.
+
+
+   ![image](https://github.com/Anubhx/-EmployeeManagementSystem/assets/80146839/212e9022-0bc2-40e8-b254-cc21b1d7ec29)
+
 
 ## How to Use
 
